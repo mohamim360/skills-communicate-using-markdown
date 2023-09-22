@@ -7,4 +7,14 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+$ git init
+```
+```javascript
+const a = 5;
+```
+```js
+const a = 5;
+```
+
 Using Markdown
